@@ -1,6 +1,6 @@
 # cryptocurrency-news-app
 
-[Imgur](https://imgur.com/JZJ7JPe)
+![App](https://i.ibb.co/7WtFfXR/2022-08-12-14-58-35.png)
 
 
 use Rapid API

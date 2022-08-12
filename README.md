@@ -1,5 +1,6 @@
 # cryptocurrency-news-app
 ![App](https://imgur.com/JZJ7JPe)
+https://imgur.com/a/WK7DFVu
 
 use Rapid API
 - [Rapid](https://rapidapi.com/hub)
